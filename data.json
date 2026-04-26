@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Auto servis Maki",
+    "address": "Bišće Polje, Mostar",
+    "email": "maki@gmail.com"
+  },
+  {
+    "name": "Pizzeria Gusar",
+    "address": "Mostar",
+    "email": "gusar@gmail.com"
+  },
+  {
+    "name": "Caffe Bar Forza",
+    "address": "Mostar",
+    "email": "forza@gmail.com"
+  }
+]
